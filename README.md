@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleynakirmizi
 - 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning NLP  
 - 📫 How to reach me aleynakirmizi11@gmail.com
 - 💞️ Kaggle : https://www.kaggle.com/aleynakrmz
 <!---
